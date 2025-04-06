@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+Flask-WTF
+Flask-Mail
+Jinja2
+flask_apscheduler
+Werkzeug
+itsdangerous
+gunicorn
